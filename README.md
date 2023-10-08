@@ -14,13 +14,8 @@
 # Menefex Webmediabedrijf
 
 <br>
-
-Menefex is een jong en modern webmediabedrijf, opgericht door [Michael Fransman](https://www.linkedin.com/in/michaelfransman/).
-
-Die zich inzet en gespecialiseerd is in het uitdenken en ontwikkelen van websites en webapplicaties. Wij zorgen dat de ambities van de klant en het eindproduct tot één komen.
-
-- _Bekijk ook onze website / Also check our website: [Menefex Webmediabedrijf](https://menefex.nl)_ ✨
-
+Menefexは、GatsbyJS、ReactJS、Contentful、GraphQl＆Netlifyを使用して作成されたビジネス管理システムです。
+(https://menefex.nl)_ ✨
 <br>
 
 ---
@@ -29,13 +24,14 @@ Die zich inzet en gespecialiseerd is in het uitdenken en ontwikkelen van website
 
 **Deze site is gebouwd met GatsbyJS, ReactJS, Contentful, GraphQl & Netlify.**
 
-🙋🏾‍♂️ Author: Michael Fransman
+🙋🏾‍♂️ Author: Kakashi Nakamoto 
+Contact: kakashinakamoto0822@gmail.com, kevinharuto430@gmail.com
 
 <br>
 
 ## Licence ✒️
 
-GNU AGPLv3, all rights reserved, Menefex WMB 2019 - 2022 ©
+GNU AGPLv3, all rights reserved, Menefex WMB 2019 - 2023 ©
 
 <br>
 
